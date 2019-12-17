@@ -1,0 +1,51 @@
+
+            body{
+                background-color:#00585f;
+            }
+            .logo{
+                background-color:#610766;
+                width:200px;
+                height:45px;
+                border-radius: 5px;
+                margin-left:10px;
+                font-size: 1.9em;
+                color:#ffffff;
+                text-align: center; 
+            }
+            .welcome{
+                font-size:1.6em;
+                padding-left:50px;
+            }
+            .budget-text{
+                font-size:1.6em;
+                padding-top:140px;
+                padding-left:500px; 
+            }
+            .button{
+                background-color:#610766;
+                width:120px;
+                height:40px;
+                border-radius:9px;
+                margin-left: 700px;
+                margin-top: 60px;
+                font-size: 1em;
+                color:#ffffff;
+                border-style: none;
+            }
+            .log{
+                margin-left:900px;
+                margin-top:200px;
+            }
+            a{
+                color:#ffffff;
+                text-decoration:none;
+            }
+            #log-link{
+                color:#ffffff;
+                
+            }
+            #log-link:hover{
+                color:#610766;
+            }
+           
+           

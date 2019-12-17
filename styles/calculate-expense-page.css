@@ -1,0 +1,133 @@
+
+h2{
+    background-color:#610766;
+    width:200px;
+    height:45px;
+    border-radius: 5px;
+    margin-left:10px;
+    font-size: 1.9em;
+    color:#ffffff;
+    margin:0 auto;
+    text-align: center;
+    margin-top:120px;
+    margin-bottom:60px;
+}
+h3{
+    padding-left:40px;
+    padding-top: 10px;
+    height:1px;
+    
+}
+#welcometext{
+    font-size: 2em;
+   float:right;
+   margin-right:5px;
+   
+}
+.pagetext{
+    font-size:2em;
+    padding-top:60px;
+}
+
+#log{
+    margin-left:620px;
+    margin-top:30px;
+}
+
+body{
+    background-color:#00585f;
+}
+.logo{
+    
+    background-color:#610766;
+    width:200px;
+    height:45px;
+    border-radius: 5px;
+    margin-left:10px;
+    font-size: 1.9em;
+    color:#ffffff;
+    text-align: center; 
+}
+.button{
+    background-color:#610766;
+    width:120px;
+    height:40px;
+    border-radius:9px;
+    margin-left: 700px;
+    margin-top: 40px;
+    font-size: 1em;
+    color:#ffffff;
+    border-style: none;
+}
+a{
+    color:#ffffff;
+    text-decoration:none;
+}
+#logout{
+    text-align: center;
+    width:65px;
+    height:20px;
+    background-color:#610766;
+    border-radius:9px;
+    color:#ffffff;
+    border-style: none;
+    float:right;
+}
+.result-text{
+    padding-top: 20px;
+    font-size:2em;
+    text-align:center;
+}
+
+.btm-buttons{
+    margin-top:100px;
+}
+input{
+    margin-top:20px;
+    width:200px;
+    height:30px;
+    margin-left:20px;
+    padding-left:20px;
+}
+input[type=text]{
+    margin-left:500px;
+    margin-right:50px;
+}
+#total{
+ margin-left:738px;
+}
+#back-button{
+    background-color:#610766;
+    width:120px;
+    height:40px;
+    border-radius:9px;
+    margin-left: 500px;
+    margin-top: 60px;
+    font-size: 1em;
+    color:#ffffff;
+    border-style: none;
+
+}
+#save-button{
+    background-color:#610766;
+    width:120px;
+    height:40px;
+    border-radius:9px;
+    margin-left: 80px;
+    margin-top: 60px;
+    font-size: 1em;
+    color:#ffffff;
+    border-style: none;
+
+}#result-button{
+    background-color:#610766;
+    width:120px;
+    height:40px;
+    border-radius:9px;
+    margin-left: 80px;
+    margin-top: 60px;
+    font-size: 1em;
+    color:#ffffff;
+    border-style: none;
+
+}

@@ -1,0 +1,23 @@
+h2{
+    background-color:#610766;
+    width:200px;
+    height:45px;
+    border-radius: 5px;
+    margin-left:10px;
+    font-size: 1.9em;
+    color:#ffffff;
+    margin:0 auto;
+    text-align: center;
+    margin-top:120px;
+    margin-bottom:40px;
+}
+input{
+    width:450px;
+    height:30px;
+    margin-top:12px;
+    margin-left:530px;
+}
+#log{
+    margin-left:650px;
+    margin-top:30px;
+}
